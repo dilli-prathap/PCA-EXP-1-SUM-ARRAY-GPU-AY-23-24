@@ -35,4 +35,6 @@ TYPE YOUR CODE HERE
 SHOW YOUR OUTPUT HERE
 
 ## RESULT:
+For this experiment, the configuration with 16,384 blocks and 1,024 threads per block achieved the best measured performance. However, small timing differences can result from GPU measurement variability, so repeated runs are recommended to confirm the ranking.
+
 Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
